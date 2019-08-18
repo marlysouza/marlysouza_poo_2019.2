@@ -1,0 +1,45 @@
+POO - O que é um objeto?
+
+Coisa material ou abstrata que pode ser percebida
+ou descrita por suas carac e *comportamentos e estado.
+
+Ex: Caneta => Objeto
+Coisas que tenho (ATRIBUTOS) CARAC = modelo (bic), cor (azul), ponta, carga, tampada
+
+Coisas que faço (METÓDOS)COMPORT = Escrever , rabiscar, pintar, tampar, destampar
+
+Como eu estou agora? (ESTADO) ESTATO DO OBJ = 50% carga, azul, tampada
+
+Class Caneta:
+	modelo: caractere
+	cor: caractere
+	ponta: Real
+	carga: inteiro
+	tampada: logico
+metodo rabiscar () (funçao)
+	se (tampada)então
+	escreva "erro"
+	se n 
+	escreva "rabisco"
+	fimSe 
+FimMetodo
+metodo tampar()
+
+ fim metodo
+fimClasse
+	
+Instanciar = Gera um objeto através de uma classe
+c1 = nova Caneta
+c1.cor = 0.5
+c1.tamapada = falso
+c1.rabiscar()
+c2 = nova caneta
+c2.cor = "Vermelho"
+c2.ponta = 10
+c2.tampada = falsa
+c2.tampar()
+
+Classe = Define os atri e métodos q serão compartilh por um onj
+Objeto = Instancia de uma classe 
+
+
