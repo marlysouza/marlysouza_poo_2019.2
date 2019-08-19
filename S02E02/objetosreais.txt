@@ -1,0 +1,8 @@
+--------- EXEMPLOS REAIS ------------
+CALCULADORA:
+=> ATRIBUTOS: cor, botões, carga, ligada.
+=> METÓDOS: liga, desliga, soma, subtração, multiplicação, divisão.
+
+BATOM:
+=> ATRIBUTOS: modelo, cor, tampa, tampado.
+=> METÓDOS: tampar, destampar, rotacionar, pintar.
