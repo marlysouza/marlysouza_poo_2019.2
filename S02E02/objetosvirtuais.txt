@@ -1,1 +1,8 @@
 --------- EXEMPLOS VIRTUAIS ------------
+AULA:
+=> ATRIBUTOS: hora, dias, lugar, qtd de pessoas.
+=> METÓDOS: Frequencia, prova, começo, termino
+Matricula:
+=> ATRIBUTOS: id, senha
+=> METÓDOS: período, selecão de turmas
+
