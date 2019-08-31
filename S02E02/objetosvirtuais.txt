@@ -4,5 +4,5 @@ AULA:
 => METÓDOS: Frequencia, prova, começo, termino
 Matricula:
 => ATRIBUTOS: id, senha
-=> METÓDOS: período, selecão de turmas
+=> METÓDOS: período, selecão de turmas.
 
