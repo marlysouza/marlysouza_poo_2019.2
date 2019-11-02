@@ -1,0 +1,21 @@
+Clean Code -> é um código de rápida manutenção, ou seja, 
+um código que contenha uma escrita e leitura de fácil compreensão.
+Ou seja, é toda uma educação de escrita de um código para que seu objetivo 
+seja repassado da maneira correta para que as outras pessoas vejam compreendam e 
+consigam testar.
+
+- Nomes são importantes (que façam sentidos)
+- Classes e funções pequenas
+- Não use comentários
+
+
+SOLID -> fala dos cinco principios da programação orientação a objeto. 
+SRP - Princípio da Responsabilidade Única - Uma classe deve ter um, e somente um, motivo para mudar.
+OCP - Princípio do Aberto/Fechado - Entender um comportamento de uma classe sem a necessidade de modificá-lo.
+LSP - Princípio da substituição de Liskov - As classes derivadas devem ser substituíveis por suas classes bases.
+ISP - Princípio da segregação de interfaces - Muitas interfaces específicas são melhores do que uma interface única geral.
+DIP - Princípio da inversão de dependência - Dependa de abstrações e não de implementações.
+
+
+Ou seja, é muito importante saber da existência dessas regras para aprender a formar um código bonito e de fácil 
+compreensão. 
